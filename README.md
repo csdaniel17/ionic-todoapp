@@ -1,3 +1,9 @@
+# Todo App
+
+A simple todo list as my first Ionic app using the Ionic App base:
+
+
+=====================
 Ionic App Base
 =====================
 
@@ -13,7 +19,7 @@ For example, to start a new Ionic project with the default tabs interface, make 
 $ npm install -g ionic
 ```
 
-Then run: 
+Then run:
 
 ```bash
 $ ionic start myProject tabs
